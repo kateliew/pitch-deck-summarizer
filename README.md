@@ -1,8 +1,8 @@
-# Pitch Deck Summarizer
+# Pitch Deck Summarization Tool
 
-Automated pipeline that watches a shared inbox for incoming pitch decks, extracts
-and summarizes them with an LLM, and pushes the structured summary into a CRM
-for deal-flow triage.
+Automated pipeline that monitors a designated inbox for incoming pitch decks, extracts and summarizes them with an LLM, and pushes the structured summary into a CRM to streamline deal-flow screening.
+
+Originally built in 2024, refactored for portfolio presentation in 2026.
 
 ## Architecture
 
