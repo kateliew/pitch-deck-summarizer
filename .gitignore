@@ -1,0 +1,23 @@
+# Secrets
+.env
+local.settings.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Azure Functions
+.python_packages/
+bin/
+obj/
+
+# Runtime artifacts from email_retriever.py
+*.pdf
+!docs/*.pdf
+
+# OS/editor
+.DS_Store
+.vscode/
